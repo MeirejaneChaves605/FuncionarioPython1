@@ -1,6 +1,6 @@
 # Funcion-rioPython1
 
-# Exercício da apostila de esxplicação sobre o conteúdo de Orientação a Objetos – Relações,Herança e Polimorfismo
+# Exercício da apostila de esxplicação sobre o conteúdo de Orientação a Objetos – Relações,Herança e Polimorfismo 🐦‍🔥
 
  Crie um programa em Python utilizando herança para
 representar um sistema simples de funcionários. Implemente
